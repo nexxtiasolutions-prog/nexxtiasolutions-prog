@@ -38,4 +38,4 @@
 ### 📬 ¿Tu equipo pierde horas en una tarea repetitiva?
 
 Cuéntanos cuál es y te decimos si se puede automatizar.
-📧 **[nexxtiasoluciones@gmail.com](mailto:nexxtiasoluciones@gmail.com)**
+📧 **[nexxtiasolutions@gmail.com](mailto:nexxtiasolutions@gmail.com)**
