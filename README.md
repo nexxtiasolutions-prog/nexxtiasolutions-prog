@@ -25,6 +25,7 @@
 | | Proyecto | Qué resuelve |
 |---|---|---|
 | 📄 | **[Extracción de glosas y devoluciones](https://github.com/nexxtiasolutions-prog/extraccion-glosas)** | Cargas la carpeta del mes con las cartas de Sura, Bolívar, Mundial, Positiva, Previsora, Solidaria, AXA Colpatria y más. Sale el Excel de cada entidad, sin digitar una fila. |
+| 📝 | **[Editor FURIPS](https://github.com/nexxtiasolutions-prog/editor-furips)** | Edita y valida FURIPS 1 y 2 en tiempo real según la Circular 0000022, lee la respuesta de ADRES y propone las correcciones antes de volver a radicar. |
 
 ---
 
